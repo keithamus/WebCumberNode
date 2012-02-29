@@ -11,7 +11,7 @@ that has Node.JS and Selenium2-Server-Standalone WebDriver.
 
   * 1 part Node.JS, with a sprinkling of NPM
   * 1 part fresh Virtual Machine, running the Selenium2-Server-Standalone pakcage.
-  * If you don't have the selenium server, get it (http://selenium.googlecode.com/files/selenium-server-standalone-2.20.0.jar)[here]
+  * If you don't have the selenium server, get it [here](http://selenium.googlecode.com/files/selenium-server-standalone-2.20.0.jar) (.jar download)
   * You don't need a Virtual Machine to run selenium, although it makes the whole thing taste better
   * The VM should have one/many/all of Firefox, Chrome, Opera, IE, Safari
 
