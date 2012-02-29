@@ -1,0 +1,22 @@
+{
+
+    "name": "YourProject",
+    "version": "0.0.1",
+    "description": "Description for this project",
+    "homepage": "http://project.home.page",
+    "keywords": [ "some", "key", "words" ],
+    "maintainers": [
+        {
+            "name": "You",
+            "email": "your@email.address",
+            "web": "http://your.website.address" 
+        } 
+    ],
+    "licenses": [ { "type": "MIT", "url": "http://mit-license.org/" } ],
+    "repositories": [ { "type": "git", "url": "https://github.com/?/?" } ],
+
+    "devDependencies" : {
+        "cucumber": "latest",
+        "webdriverjs": "latest"
+    }
+}

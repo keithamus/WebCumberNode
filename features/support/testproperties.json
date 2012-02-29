@@ -1,0 +1,7 @@
+{
+    "logLevel": "command",
+
+    "host": "192.168.56.87",
+
+    "browser": "firefox"
+}
