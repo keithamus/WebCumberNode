@@ -21,7 +21,7 @@ First you need to pre-heat the VM, by turning it on and loading selenium server.
 Make sure you have the host-name set in ./features/support/testproperties.json 
 to the IP address of your VM (or just 127.0.0.1 if you're running locally).
 
-Also prepare your environment by running `npm install --dev`. If you're feeling
+Also prepare your environment by running `npm install`. If you're feeling
 brave you can also install the dependencies globally, which helps with Cucumber
 as it installs a bin in your $PATH.
 
