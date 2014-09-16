@@ -9,14 +9,14 @@
         {
             "name": "You",
             "email": "your@email.address",
-            "web": "http://your.website.address" 
-        } 
+            "web": "http://your.website.address"
+        }
     ],
     "licenses": [ { "type": "MIT", "url": "http://mit-license.org/" } ],
     "repositories": [ { "type": "git", "url": "https://github.com/?/?" } ],
 
     "devDependencies" : {
         "cucumber": "latest",
-        "webdriverjs": "latest"
+        "webdriverio": "latest"
     }
 }

@@ -12,15 +12,15 @@ module.exports = function () {
 
         inputId = '#' + inputId;
 
-        this.waitFor(inputId, 1000, function (found) {
+        this.waitFor(inputId, 3000, function (err, found) {
 
-            if (found) {
+            if (!err) {
                 this.setValue(inputId, text, callback);
                 return;
             }
 
             callback.fail(new Error('Element ' + inputId + ' was not found after 3s'));
-            
+
         });
     });
 };
