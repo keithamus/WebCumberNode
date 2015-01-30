@@ -1,0 +1,8 @@
+### Files not tracked ###
+node_modules
+.tmp
+.idea
+npm-debug.log
+
+
+### Files tracked (exceptions to above) ###

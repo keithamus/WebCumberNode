@@ -1,22 +1,16 @@
 {
-
-    "name": "YourProject",
-    "version": "0.0.1",
-    "description": "Description for this project",
-    "homepage": "http://project.home.page",
-    "keywords": [ "some", "key", "words" ],
-    "maintainers": [
-        {
-            "name": "You",
-            "email": "your@email.address",
-            "web": "http://your.website.address"
-        }
-    ],
-    "licenses": [ { "type": "MIT", "url": "http://mit-license.org/" } ],
-    "repositories": [ { "type": "git", "url": "https://github.com/?/?" } ],
-
-    "devDependencies" : {
-        "cucumber": "latest",
-        "webdriverio": "latest"
-    }
+  "name": "WebCumberNode",
+  "version": "0.0.1",
+  "description": "Boilerplate code for cucumber.js with webdriver.io in node.js",
+  "keywords": [
+    "testing",
+    "integration tests",
+    "cucumber.js",
+    "webdriver.io",
+    "node.js"
+  ],
+  "devDependencies": {
+    "cucumber": "latest",
+    "webdriverio": "latest"
+  }
 }
